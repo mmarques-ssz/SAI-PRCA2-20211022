@@ -1,0 +1,14 @@
+CLASSE = É uma estrutura de armazenamento de dados e 
+         de rotinas (ações) que atuam sobre esses dados
+
+ATRIBUTO = Representa um dado de uma classe
+
+MÉTODO = Representa a ação (função) de uma classe
+
+OBJETO = É a instância de uma classe
+
+ENCAPSULAMENTO = Técnica que garante a proteção dos atributos de uma classe 
+                 isolando-os do meio externo através da cláusula PRIVATE
+                 O acesso à esses dados se dará exclusivamente através de
+                 métodos SET (levar) e GET (buscar) os dados de/para o objeto.
+ 
